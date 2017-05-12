@@ -1,0 +1,1 @@
+q-new = (1- alpha)*q-old + alpha*[reward + gamma * q-max]
